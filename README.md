@@ -10,4 +10,6 @@ MIT: see the [LICENSE](https://github.com/yogeshCt3/System-Programming-in-C/edit
    
 ### [11](https://github.com/yogeshCt3/System-Programming-in-C/blob/master/11%20-%20RAC%20reslove%20using%20mutex%20locks.c)
     WAP in C to resolove the "race around condition" of threads using method of "mutes locks".
-  
+
+### [12](https://github.com/yogeshCt3/System-Programming-in-C/blob/master/11%20-%20RAC%20reslove%20using%20mutex%20locks.c)
+    WAP in C to resolove the "race around condition" of threads using method of "semaphores".
