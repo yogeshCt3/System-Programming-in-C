@@ -1,6 +1,8 @@
 # [System-Programming](https://en.wikipedia.org/wiki/System_programming)-in-[C](https://en.wikipedia.org/wiki/C_(programming_language))
 Implementations of few of the topics related to system programming  
 
+![alt text](https://www.geeksforgeeks.org/wp-content/uploads/Clanguage-768x256.png) 
+
 
 ## License
 MIT: see the [LICENSE](https://github.com/yogeshCt3/System-Programming-in-C/blob/master/LICENSE) file.
