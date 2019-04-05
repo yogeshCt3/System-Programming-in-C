@@ -18,17 +18,14 @@ write()|[Example](http://codewiki.wikidot.com/c:system-calls:write)|[Code](https
 
 ## List of programs
 ### [01](https://github.com/yogeshCt3/System-Programming-in-C/blob/master/01%20-%20Write%20on%20console.c)
-    WAP in C to print any text on screen using system calls.
-    
+    WAP in C to print any text on screen using system calls.    
 ## [02](https://github.com/yogeshCt3/System-Programming-in-C/blob/master/02%20-%20Read%20upto%20EOF.c)
     WAP in C to read upto End Of File using concepts of System Calls.
 ## [03](https://github.com/yogeshCt3/System-Programming-in-C/blob/master/03%20-%20Read%20all%20content%20of%20a%20file.c)
     WAP in C to read all content of a text file using system calls concepts.
 ### [10](https://github.com/yogeshCt3/System-Programming-in-C/blob/master/10%20-%20Race%20Around%20Condition.c)  
-    WAP in C to implement the "race around condition" using threads.
-   
+    WAP in C to implement the "race around condition" using threads.   
 ### [11](https://github.com/yogeshCt3/System-Programming-in-C/blob/master/11%20-%20RAC%20reslove%20using%20mutex%20locks.c)
     WAP in C to resolove the "race around condition" of threads using method of "mutes locks".
-
 ### [12](https://github.com/yogeshCt3/System-Programming-in-C/blob/master/12%20-%20RAC%20resolve%20using%20the%20semaphores.c)
     WAP in C to resolove the "race around condition" of threads using method of "semaphores".
