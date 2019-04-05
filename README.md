@@ -17,6 +17,7 @@ write( )|[Example](http://codewiki.wikidot.com/c:system-calls:write)|[Code](http
 open( )|[Implementation](https://0xax.gitbooks.io/linux-insides/SysCall/linux-syscall-5.html)|[Unix Forum](https://www.unix.com/programming/182339-open-system-call-c.html)|[Examples](http://codewiki.wikidot.com/c:system-calls:open)
 lseek( )|[Overview](https://www.geeksforgeeks.org/lseek-in-c-to-read-the-alternate-nth-byte-and-write-it-in-another-file/)|[Manual](http://manpagesfr.free.fr/man/man2/lseek.2.html)|[Examples](http://codewiki.wikidot.com/c:system-calls:lseek)
 opendir( )|[Example](http://www.qnx.com/developers/docs/6.5.0SP1.update/com.qnx.doc.neutrino_lib_ref/o/opendir.html)|[More Examples](https://stackoverflow.com/questions/3554120/open-directory-using-c)|[Manual](http://pubs.opengroup.org/onlinepubs/009604599/functions/opendir.html)
+readdir( )|[Manual](http://man7.org/linux/man-pages/man3/readdir.3.html)|[Example](https://stackoverflow.com/questions/20265328/readdir-beginning-with-dots-instead-of-files/20265398)|[More Example](https://stackoverflow.com/questions/20265328/readdir-beginning-with-dots-instead-of-files/20265398)
 
 ## List of programs
 
