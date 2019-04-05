@@ -15,6 +15,7 @@ System Calls|[PDF file](https://www.cs.cmu.edu/~guna/15-123S11/Lectures/Lecture2
 read( )|[Tutorial](http://www.tutorialspoint.com/unix_system_calls/read.htm)|[Linux manual](http://man7.org/linux/man-pages/man2/read.2.html)|[Example](http://codewiki.wikidot.com/c:system-calls:read)
 write( )|[Example](http://codewiki.wikidot.com/c:system-calls:write)|[Code](https://stackoverflow.com/questions/46116764/how-to-use-the-write-system-call-in-c)|[Tutorial](http://www.tutorialspoint.com/unix_system_calls/write.htm)
 open( )|[Implementation](https://0xax.gitbooks.io/linux-insides/SysCall/linux-syscall-5.html)|[Unix Forum](https://www.unix.com/programming/182339-open-system-call-c.html)|[Examples](http://codewiki.wikidot.com/c:system-calls:open)
+lseek( )|[Overview](https://www.geeksforgeeks.org/lseek-in-c-to-read-the-alternate-nth-byte-and-write-it-in-another-file/)|[Manual](http://manpagesfr.free.fr/man/man2/lseek.2.html)|[Examples](http://codewiki.wikidot.com/c:system-calls:lseek)
 
 
 ## List of programs
