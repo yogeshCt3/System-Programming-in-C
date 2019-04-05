@@ -12,6 +12,7 @@ MIT: see the [LICENSE](https://github.com/yogeshCt3/System-Programming-in-C/blob
 Topic |Link 1|Link 2|Link 3|
 ------|------|------|------|  
 System Calls|[PDF file](https://www.cs.cmu.edu/~guna/15-123S11/Lectures/Lecture24.pdf)|[GCC Documentation](https://www.gnu.org/software/libc/manual/html_node/System-Calls.html)|[IO system calls](https://www.geeksforgeeks.org/input-output-system-calls-c-create-open-close-read-write/)
+read()|[Tutorial](http://www.tutorialspoint.com/unix_system_calls/read.htm)|[Linux manual](http://man7.org/linux/man-pages/man2/read.2.html)|[example](http://codewiki.wikidot.com/c:system-calls:read)
 
 
 ## List of programs
