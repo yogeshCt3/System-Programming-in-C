@@ -16,7 +16,7 @@ read( )|[Tutorial](http://www.tutorialspoint.com/unix_system_calls/read.htm)|[Li
 write( )|[Example](http://codewiki.wikidot.com/c:system-calls:write)|[Code](https://stackoverflow.com/questions/46116764/how-to-use-the-write-system-call-in-c)|[Tutorial](http://www.tutorialspoint.com/unix_system_calls/write.htm)
 open( )|[Implementation](https://0xax.gitbooks.io/linux-insides/SysCall/linux-syscall-5.html)|[Unix Forum](https://www.unix.com/programming/182339-open-system-call-c.html)|[Examples](http://codewiki.wikidot.com/c:system-calls:open)
 lseek( )|[Overview](https://www.geeksforgeeks.org/lseek-in-c-to-read-the-alternate-nth-byte-and-write-it-in-another-file/)|[Manual](http://manpagesfr.free.fr/man/man2/lseek.2.html)|[Examples](http://codewiki.wikidot.com/c:system-calls:lseek)
-
+opendir( )|[Example](http://www.qnx.com/developers/docs/6.5.0SP1.update/com.qnx.doc.neutrino_lib_ref/o/opendir.html)|[More Examples](https://stackoverflow.com/questions/3554120/open-directory-using-c)|[Manual](http://pubs.opengroup.org/onlinepubs/009604599/functions/opendir.html)
 
 ## List of programs
 ### [01](https://github.com/yogeshCt3/System-Programming-in-C/blob/master/01%20-%20Write%20on%20console.c)
