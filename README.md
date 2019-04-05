@@ -19,15 +19,12 @@ lseek( )|[Overview](https://www.geeksforgeeks.org/lseek-in-c-to-read-the-alterna
 opendir( )|[Example](http://www.qnx.com/developers/docs/6.5.0SP1.update/com.qnx.doc.neutrino_lib_ref/o/opendir.html)|[More Examples](https://stackoverflow.com/questions/3554120/open-directory-using-c)|[Manual](http://pubs.opengroup.org/onlinepubs/009604599/functions/opendir.html)
 
 ## List of programs
-### [01](https://github.com/yogeshCt3/System-Programming-in-C/blob/master/01%20-%20Write%20on%20console.c)
-    WAP in C to print any text on screen using system calls.    
-## [02](https://github.com/yogeshCt3/System-Programming-in-C/blob/master/02%20-%20Read%20upto%20EOF.c)
-    WAP in C to read upto End Of File using concepts of System Calls.
-## [03](https://github.com/yogeshCt3/System-Programming-in-C/blob/master/03%20-%20Read%20all%20content%20of%20a%20file.c)
-    WAP in C to read all content of a text file using system calls concepts.
-### [10](https://github.com/yogeshCt3/System-Programming-in-C/blob/master/10%20-%20Race%20Around%20Condition.c)  
-    WAP in C to implement the "race around condition" using threads.   
-### [11](https://github.com/yogeshCt3/System-Programming-in-C/blob/master/11%20-%20RAC%20reslove%20using%20mutex%20locks.c)
-    WAP in C to resolove the "race around condition" of threads using method of "mutes locks".
-### [12](https://github.com/yogeshCt3/System-Programming-in-C/blob/master/12%20-%20RAC%20resolve%20using%20the%20semaphores.c)
-    WAP in C to resolove the "race around condition" of threads using method of "semaphores".
+
+Index | Question | View Code|
+------|----------|----------|
+01|WAP in C to print any text on screen using system calls.|[Code](https://github.com/yogeshCt3/System-Programming-in-C/blob/master/01%20-%20Write%20on%20console.c)    
+02|WAP in C to read upto End Of File using concepts of System Calls.|[Code](https://github.com/yogeshCt3/System-Programming-in-C/blob/master/02%20-%20Read%20upto%20EOF.c)
+03|WAP in C to read all content of a text file using system calls concepts.|[Code](https://github.com/yogeshCt3/System-Programming-in-C/blob/master/03%20-%20Read%20all%20content%20of%20a%20file.c)
+10|WAP in C to implement the "race around condition" using threads.|[Code](https://github.com/yogeshCt3/System-Programming-in-C/blob/master/10%20-%20Race%20Around%20Condition.c)  
+11|WAP in C to resolove the "race around condition" of threads using method of "mutes locks".|[Code](https://github.com/yogeshCt3/System-Programming-in-C/blob/master/11%20-%20RAC%20reslove%20using%20mutex%20locks.c)
+12|WAP in C to resolove the "race around condition" of threads using method of "semaphores".|[Code](https://github.com/yogeshCt3/System-Programming-in-C/blob/master/12%20-%20RAC%20resolve%20using%20the%20semaphores.c)
