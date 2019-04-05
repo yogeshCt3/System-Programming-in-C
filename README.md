@@ -27,7 +27,8 @@ Topic|Link 1|Link 2|Link 3|
 -----|------|------|------|
 Process|[Theory](https://en.wikipedia.org/wiki/Process_(computing))|[Tutorial](https://www.tutorialspoint.com/operating_system/os_processes.htm)|[Flow Chart](https://www.studytonight.com/operating-system/operating-system-processes)
 Zombie Process|[Theory](https://en.wikipedia.org/wiki/Zombie_process)|[Tutorial](https://www.tutorialspoint.com/what-is-zombie-process-in-linux)|
-Orphan Process|
+Orphan Process|[Theory](https://en.wikipedia.org/wiki/Orphan_process)|[Zombie vs Orphan](https://www.gmarik.info/blog/2012/orphan-vs-zombie-vs-daemon-processes/)|[Resolve](http://linuxg.net/what-are-zombie-and-orphan-processes-and-how-to-kill-them/)
+
 Threads|
 
 
