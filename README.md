@@ -12,7 +12,7 @@ MIT: see the [LICENSE](https://github.com/yogeshCt3/System-Programming-in-C/blob
    
 ### System Calls
 Topic |Link 1|Link 2|Link 3|
-------|------|------|------|  
+------|------|------|------| 
 System Calls|[PDF file](https://www.cs.cmu.edu/~guna/15-123S11/Lectures/Lecture24.pdf)|[GCC Documentation](https://www.gnu.org/software/libc/manual/html_node/System-Calls.html)|[IO system calls](https://www.geeksforgeeks.org/input-output-system-calls-c-create-open-close-read-write/)
 read( )|[Tutorial](http://www.tutorialspoint.com/unix_system_calls/read.htm)|[Linux manual](http://man7.org/linux/man-pages/man2/read.2.html)|[Example](http://codewiki.wikidot.com/c:system-calls:read)
 write( )|[Example](http://codewiki.wikidot.com/c:system-calls:write)|[Code](https://stackoverflow.com/questions/46116764/how-to-use-the-write-system-call-in-c)|[Tutorial](http://www.tutorialspoint.com/unix_system_calls/write.htm)
@@ -25,6 +25,11 @@ readdir( )|[Manual](http://man7.org/linux/man-pages/man3/readdir.3.html)|[Exampl
 
 Topic|Link 1|Link 2|Link 3|
 -----|------|------|------|
+Process|[Theory](https://en.wikipedia.org/wiki/Process_(computing))|[Tutorial](https://www.tutorialspoint.com/operating_system/os_processes.htm)|[Flow Chart](https://www.studytonight.com/operating-system/operating-system-processes)
+Zombie Process|[Theory](https://en.wikipedia.org/wiki/Zombie_process)|[Tutorial](https://www.tutorialspoint.com/what-is-zombie-process-in-linux)|
+Orphan Process|
+Threads|
+
 
 ## List of programs
 
