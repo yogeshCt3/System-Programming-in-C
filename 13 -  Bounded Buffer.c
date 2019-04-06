@@ -45,6 +45,8 @@ int main(){
 	pthread_create(&thread2, NULL, &consume, NULL);
 	pthread_create(&thread2, NULL, &consume, NULL);
 	pthread_create(&thread2, NULL, &consume, NULL);
+	pthread_create(&thread2, NULL, &consume, NULL);
+	pthread_create(&thread2, NULL, &consume, NULL);
 
 		
 
