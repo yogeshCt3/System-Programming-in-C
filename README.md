@@ -45,3 +45,4 @@ Index | Question | View Code|
 12|WAP in C to resolove the "race around condition" of threads using method of "semaphores".|[Code](https://github.com/yogeshCt3/System-Programming-in-C/blob/master/12%20-%20RAC%20resolve%20using%20the%20semaphores.c)
 13|WAP in C to solve the Producer/ Consumer problem using threads and semaphores.|[Code](https://github.com/yogeshCt3/System-Programming-in-C/blob/master/13%20-%20%20Bounded%20Buffer.c)
 14|WAP in C to create a scenario showing deadlocks using threds and semaphores|[Code](https://github.com/yogeshCt3/System-Programming-in-C/blob/master/14%20-%20DeadLock.c)
+15|WAP in C to resolve the concurrency control mechanism using threads and mutex|[Code](https://github.com/yogeshCt3/System-Programming-in-C/blob/master/15%20-%20ConcurrencyControl.c)
